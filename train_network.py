@@ -210,20 +210,3 @@ if __name__ == '__main__':
 
 
 
-
-
-
-    #开始分析，loss，acc，kappa，EGF
-
-
-
-
-
-
-# divide into two part
-
-# docs this in theise
-#
-#
-# show gradient flow
-
